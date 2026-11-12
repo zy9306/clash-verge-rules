@@ -1,0 +1,5 @@
+# 拦截名单：只填匹配条件，由主配置指定 REJECT。
+# 添加时改成列表，例如：payload: ["DOMAIN,ads.example.com"]
+# 推送 GitHub 后，在 Verge 更新 custom-reject 规则集，或等待 5 分钟自动更新。
+
+payload: []

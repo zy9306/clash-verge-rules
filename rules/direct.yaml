@@ -1,0 +1,6 @@
+# 自定义直连名单：只填匹配条件，DIRECT 由主配置指定。
+# 推送 GitHub 后，在 Verge 更新 custom-direct 规则集，或等待 5 分钟自动更新。
+
+payload:
+  - DOMAIN,git.17bdc.com
+  - DOMAIN-SUFFIX,shanbay.com
